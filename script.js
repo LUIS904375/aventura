@@ -15,20 +15,7 @@ const avanca = document.querySelectorAll('btn-proximo');
         } else {
     console.error(`Elemento com ID "${proximoPasso}"não encontrado,`)
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-        })
+ })
      });
 // Reinicia o jogo ao clicar no botão de reinício
 if (reiniciarBtn) {
